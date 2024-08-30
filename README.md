@@ -1,7 +1,7 @@
 ![Mercados de Macarrão](https://user-images.githubusercontent.com/25910972/131592293-04d51859-18f4-404b-b698-c7c51e74c428.png)
 
 <div>
- <p>I am a Frontend Developer with 5 years of experience.<br>I have been working with different technologies throughout my career such as React, React Native, Angular and Ionic. <br><br>Lately I've been working more with React and focusing my studies on automated tests. <br>I try to be very attentive to design patterns and develop solutions focused on the best user experience. <br><br>When I'm not coding... I'm playing videogames, drinking coffee or playing with my cats.🐈‍🐈‍</p>
+ <p>I am a Software Developer with 7 years of experience.<br>I have been working with different technologies throughout my career such as React, React Native, Angular, Ionic, TypeScript, JavaScript, Golang, PHP, etc... <br><br>I try to be very attentive to design patterns and develop solutions focused on the best user experience. <br><br>When I'm not coding... I'm playing videogames, drinking coffee or playing with my cats.🐈‍🐈‍</p>
 </div>
 
 <div style="display: inline_block"><br>
