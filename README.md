@@ -1,9 +1,9 @@
 ![mage and provi (1)](https://github.com/user-attachments/assets/1aa990fe-be21-4d1b-ac38-ac75cd064fa8)
 
- <p>⭐ With over 7 years of experience as a Software Engineer specializing in frontend development and  </br>a degree in Control and Automation Engineering, I am dedicated to creating technological solutions </br>that positively impact businesses and people. My journey began as a programming and robotics </br>instructor, where I honed my ability to translate complex concepts into practical applications. Since then, </br>I have collaborated on innovative projects across various industries.‍</p>
+ <p>⭐ With over 7 years of experience as a Software Engineer specializing in frontend development and a Control and Automation Engineering degree, I am dedicated to creating technological solutions that positively impact businesses and people. My journey began as a programming and robotics instructor, where I honed my ability to translate complex concepts into practical applications. Since then, I have collaborated on innovative projects across various industries.‍</p>
 </br>
  <p>
-  🚀 Currently, as a senior developer at Olist, I contribute to initiatives that empower Brazilian commerce </br>(local and e-commerce) by enabling more efficient and profitable sales operations using technologies </br>like React, Node.js, Next.js, NestJS, PHP, among others.
+  🚀 Currently, as a senior developer at Olist, I contribute to initiatives that empower Brazilian commerce (local and e-commerce) by enabling more efficient and profitable sales operations using technologies like React, Node.js, Next.js, NestJS, PHP, among others.
  </p>
 </div>
 
